@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "img": {
+            "src": "https://scrimba.com/links/travel-journal-japan-image-url",
+            "alt": "Mount Fuji"
+        },
+        "title": "Mount Fuji",
+        "country": "Japan",
+        "googleMapsLink": "https://maps.app.goo.gl/6RLYZDuuuqJ7kNGZ9",
+        "dates": "12 Jan, 2021 - 24 Jan, 2021",
+        "text": "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists."
+    },
+    {
+        "id": 2,
+        "img": {
+            "src": "https://scrimba.com/links/travel-journal-australia-image-url",
+            "alt": "Sydney Opera House"
+        },
+        "title": "Sydney Opera House",
+        "country": "Australia",
+        "googleMapsLink": "https://maps.app.goo.gl/Zr17SCrsJeCEKMd36",
+        "dates": "27 May, 2021 - 8 Jun, 2021",
+        "text": "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings."
+    },
+    {
+        "id": 3,
+        "img": {
+            "src": "https://scrimba.com/links/travel-journal-norway-image-url",
+            "alt": "Geirangerfjord"
+        },
+        "title": "Geirangerfjord",
+        "country": "Norway",
+        "googleMapsLink": "https://maps.app.goo.gl/fhkJuBhmFDv47tiB7",
+        "dates": "01 Oct, 2021 - 18 Nov, 2021",
+        "text": "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
+    },
+    {
+        "id": 4,
+        "img": {
+            "src": "https://images.unsplash.com/photo-1732532929159-05fcf0ab456d?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "alt": "Pyramids of Giza"
+        },
+        "title": "Pyramids of Giza",
+        "country": "Egypt",
+        "googleMapsLink": "https://maps.app.goo.gl/gFuMjPv9mBhWyJjm9",
+        "dates": "15 Feb, 2022 - 25 Feb, 2022",
+        "text": "The Pyramids of Giza, located on the outskirts of Cairo, are the last of the Seven Wonders of the Ancient World still standing. They were built more than 4,500 years ago as monumental tombs."
+    },
+    {
+        "id": 5,
+        "img": {
+            "src": "https://images.unsplash.com/photo-1634196243663-71cc3a1c639a?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "alt": "Colosseum"
+        },
+        "title": "Colosseum",
+        "country": "Italy",
+        "googleMapsLink": "https://maps.app.goo.gl/XKByQTnELnGnckAu9",
+        "dates": "10 Apr, 2022 - 20 Apr, 2022",
+        "text": "The Colosseum in Rome is an oval amphitheatre built during the Roman Empire. It could hold up to 50,000 spectators and was primarily used for gladiatorial contests and public spectacles."
+    },
+    {
+        "id": 6,
+        "img": {
+            "src": "https://images.unsplash.com/photo-1707621724113-2d05615e50ef?q=80&w=724&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "alt": "Christ the Redeemer"
+        },
+        "title": "Christ the Redeemer",
+        "country": "Brazil",
+        "googleMapsLink": "https://maps.app.goo.gl/QLg9eZpjgtv9Vpzv5",
+        "dates": "02 Aug, 2022 - 12 Aug, 2022",
+        "text": "Christ the Redeemer is an Art Deco statue of Jesus Christ in Rio de Janeiro. Standing 30 meters tall on Mount Corcovado, it is one of the New Seven Wonders of the World."
+    },
+    {
+        "id": 7,
+        "img": {
+            "src": "https://images.unsplash.com/photo-1501258338179-b25f87809429?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "alt": "Grand Canyon"
+        },
+        "title": "Grand Canyon",
+        "country": "USA",
+        "googleMapsLink": "https://maps.app.goo.gl/XwNHeW89LRawLLjF7",
+        "dates": "05 Sep, 2022 - 15 Sep, 2022",
+        "text": "The Grand Canyon in Arizona is a massive gorge carved by the Colorado River over millions of years. It is famous for its layered red rock formations and breathtaking views."
+    },
+    {
+        "id": 8,
+        "img": {
+            "src": "https://images.unsplash.com/photo-1609971757431-439cf7b4141b?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "alt": "Eiffel Tower"
+        },
+        "title": "Eiffel Tower",
+        "country": "France",
+        "googleMapsLink": "https://maps.app.goo.gl/cYXiiqkAWjAa3QYD8",
+        "dates": "20 Dec, 2022 - 30 Dec, 2022",
+        "text": "The Eiffel Tower is a wrought-iron lattice tower in Paris. Completed in 1889, it is one of the most recognizable structures in the world and a global symbol of France."
+    }
+]
